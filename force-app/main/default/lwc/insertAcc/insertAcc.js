@@ -35,7 +35,4 @@ export default class InsertAcc extends LightningElement {
 
   }
 
-
-
-
 }
